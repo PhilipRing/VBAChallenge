@@ -14,7 +14,7 @@ Based on the findings from this data, we can clearly see that 2017 was a much be
 ---
 As we can see, all stocks listed in the data set, other than TERP, yielded a positive return in the 2017 fiscal year. The strongest performers in this group are DQ, SEDG, ENPH, and FSLR, with returns of 199.45%, 184.47%, 129.52%, and 101.31%, respectively. In 2018, every stock had a negative return aside from ENPH and RUN, which went up 81.92% and 83.95% respectively. The biggest losers of this year were DQ, which had a -62.60% return, JKS, which had a -60.53% return, and SPWR, which has a -44.59% return. What we may be able to gather from this analysis is that ENPH and RUN are both stocks to target as they have has a positive return for both 2017 and 2018.
 ---
-![Ticker_Prices](BerkleyBootcampWork/Resources/Ticker_Prices.png)
+![Ticker_Prices](Path/To/Ticker_Prices.png)
 ---
 The code used above was used to determine the starting prices and ending prices of each stock in the respective fiscal year. By determining the starting and ending prices, we were able to calculate the return for each stock in both 2017 and 2018.
 ---
